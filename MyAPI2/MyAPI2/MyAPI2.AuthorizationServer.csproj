@@ -157,7 +157,6 @@
     <Compile Include="Biz\AccountLogic.cs" />
     <Compile Include="Biz\PostsLogic.cs" />
     <Compile Include="Controllers\AccountsController.cs" />
-    <Compile Include="Controllers\AudienceController.cs" />
     <Compile Include="Controllers\BaseApiController.cs" />
     <Compile Include="Controllers\ClaimsController.cs" />
     <Compile Include="Controllers\PostsController.cs" />
